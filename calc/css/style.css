@@ -1,0 +1,21 @@
+.calc{
+    margin-left:400px;
+    margin-top: 100px;
+}
+
+.all{
+    display: flex;
+}
+.numbers{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+}
+
+.math{
+    width: 70px;
+}
+
+button{
+    width: 30px;
+}
